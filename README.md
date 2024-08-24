@@ -1,0 +1,3 @@
+ 
+This Python code is designed to collect, validate, and analyze meteorological data for the year 2024. The program allows the user to input the maximum temperature for each month and then performs several calculations. It calculates the annual average maximum temperature, identifies the number of "scorching" months where the temperature exceeds 33°C, and determines which month was the hottest and which was the coldest. The code ensures that the user inputs valid data by checking the month number and temperature range, and it prevents duplicate entries for any given month. The results are then displayed, summarizing the key insights from the data provided.
+
